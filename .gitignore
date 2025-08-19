@@ -10,7 +10,6 @@
 
 *.flt
 *.gmo
-*.info
 *.la
 *.lo
 *.o
